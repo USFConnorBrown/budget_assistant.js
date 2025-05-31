@@ -9,6 +9,6 @@ let currentBalance = initialCapital + netCashFlow; // This is the current balanc
 let isProfitable = netCashFlow > 0; // Profitability will be true if net cash flow is positive
 //Step 3: Print to Console
 console.log("Startup Name: " + startupName);
-console.log("Net Montly Cash Flow: $" + netCashFlow);
+console.log("Net Monthly Cash Flow: $" + netCashFlow);
 console.log("Current Balance: $" + currentBalance);
 console.log("Is the business profitable? " + isProfitable);
